@@ -4,8 +4,8 @@ import img1 from "../../../images/img1.png";
 function Header() {
   return /*html*/ `
   
-  <header class="bg-blue-200 p-5">
-    <div class=" max-w-2xl mx-auto p-12">
+  <header class="bg-blue-200 ">
+    <div class=" max-w-2xl mx-auto p-6">
     <div class="w-20 mb-10">
       <a  href="https://www.uber.com/br/pt-br/"><img src=${logo}></a>
     </div>

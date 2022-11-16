@@ -7,6 +7,7 @@ module.exports = {
         btn: "36rem",
       },
     },
+ 
   },
   plugins: [],
 };
